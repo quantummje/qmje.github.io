@@ -1,3 +1,5 @@
+### Finds the ground state of a trapped BEC with rigid body + nonlinear roation
+### with the imaginary time method. See Phys. Rev A 102, 011303(R) (2020).
 import numpy as np
 import sys
 import time
