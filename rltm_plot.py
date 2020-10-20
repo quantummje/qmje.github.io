@@ -1,3 +1,5 @@
+### Finds and sorts individual phase defects [vortices] in 2+1 dimensions.
+### Produces (x,y,t) trajectory plot [see Fig. 4 Phys. Rev. A 102, 011303(R) (2020)]
 import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
